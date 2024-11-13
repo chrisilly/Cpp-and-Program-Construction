@@ -1,0 +1,18 @@
+[submodule "cpplab2"]
+	path = cpplab2
+	url = ../cpplab2
+[submodule "cpplab3"]
+	path = cpplab3
+	url = ../cpplab3
+[submodule "cpplab4"]
+	path = cpplab4
+	url = ../cpplab4
+[submodule "cpplab5"]
+	path = cpplab5
+	url = ../cpplab5
+[submodule "cpplab6"]
+	path = cpplab6
+	url = ../cpplab6
+[submodule "cpplab1"]
+	path = cpplab1
+	url = ../cpplab1
