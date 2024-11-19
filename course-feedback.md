@@ -3,6 +3,10 @@
 - ⚠️ Exams should be done digitally using Inspera's dedicated features for writing code
 - Need more demonstrations and example-code nearer the beginning of the course
 
+## Content
+
+- I wish we learned more about why `new` and `delete` are religiously avoided in C++ and what `smart pointers` and `templates` are
+
 ## Assignments
 
 - We should be given header files with each assignment <!-- with zero implementation or definintions, obviously --> to illustrate exactly what classes and functions need to be defined and implemented. *(Not just through plain-text descriptions.)*
