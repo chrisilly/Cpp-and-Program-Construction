@@ -14,6 +14,13 @@
 
 - Never write example code or provide any files containing code written in any language other than English—or more importantly, never use non-English characters like `åäö`.
     - [ ] Remove all Swedish from Assignment 3
+    - [ ] Remove all Swedish from Assignment 5
+
+- [ ] Review and revise assignments, ensuring that provided code, test code, and header files have internally consistent naming conventions
+    - For instance, in assignment 5, `Invariant()` has upper-case beginning while the majority of the code has lower-case beginnings and underscores i.e. `push_back()` or `shrink_to_fit()`
+
+- [ ] As much as possible, divide/delegate the högskolepoäng amongst the assignments so that students are credited per assignment completed rather than having to complete all of them to receive any credit at all
+    - Whether it's giving 0.75hp per assignment or giving 0.5hp for assignment 1, 0.5hp for assignment 2, and 1hp each for assignments 3-5, and so on...
 
 ---
 
